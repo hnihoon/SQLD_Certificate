@@ -1,0 +1,234 @@
+2023-09-29 18:10:43.996 - DBeaver 23.1.5.202308201919 is starting
+2023-09-29 18:10:44.001 - OS: Windows 10 10.0 (amd64)
+2023-09-29 18:10:44.001 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2023-09-29 18:10:44.001 - Install path: 'C:\Users\USER\AppData\Local\DBeaver'
+2023-09-29 18:10:44.001 - Instance path: 'file:/D:/KDH_DBMS/workspace/'
+2023-09-29 18:10:44.002 - Memory available 64Mb/1024Mb
+2023-09-29 18:10:44.015 - Create display
+2023-09-29 18:10:44.154 - Initializing DBeaver 23.1.5
+2023-09-29 18:10:44.155 - Host plugin: org.jkiss.dbeaver.ui.app.standalone 23.1.5.202308201919
+2023-09-29 18:10:44.155 - Initialize desktop platform...
+2023-09-29 18:10:44.319 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.0.v20230425-0513]
+> Start Core Resource Management [org.eclipse.core.resources 3.19.0.v20230510-1240]
+> Start Team Support Core [org.eclipse.team.core 3.10.0.v20230317-0901]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.112.202308201919]
+2023-09-29 18:10:44.685 - Initialize base platform...
+2023-09-29 18:10:44.713 - Platform initialized (558ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.112.202308201919]
+2023-09-29 18:10:44.763 - Starting instance server at http://localhost:1331
+2023-09-29 18:10:44.774 - Run workbench
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.127.202308201919]
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.0.v20230501-1823]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.0.v20230429-1914]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.0.v20230501-1823]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.0.v20230501-1823]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.0.v20230501-1823]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.0.v20230501-1823]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.18.0.v20230211-1150]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.0.v20230501-1533]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.0.v20230501-1823]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.0.v20230525-0648]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.0.v20230429-1914]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.0.v20230317-0802]
+> Start jna [com.sun.jna 5.13.0]
+2023-09-29 18:10:46.715 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.102.202308201919]
+2023-09-29 18:10:46.882 - Total database drivers: 106 (106)
+> Start Help System Core [org.eclipse.help 3.10.0.v20230317-0802]
+2023-09-29 18:10:46.973 - Create actions
+2023-09-29 18:10:46.978 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2023-09-29 18:10:46.979 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2023-09-29 18:10:46.979 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2023-09-29 18:10:47.451 - Initialize workbench window
+2023-09-29 18:10:47.457 - Finish initialization
+> Start Default Text Editor [org.eclipse.ui.editors 3.16.0.v20230329-1609]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.17.0.v20230316-1200]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.112.202308201919]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.112.202308201919]
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.88.202308201919]
+> Start Core Compare Support [org.eclipse.compare.core 3.8.0.v20230517-1315]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.3.1000.v20220801-1135]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.0.v20230317-0901]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.0.v20230317-0901]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.149.202308201919]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.118.202308201919]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.13.0.202306071707]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.14.0.202306071707]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.72.202308201919]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.72.202308201919]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.5.202308201919]
+> Start DBeaver Oracle Model [org.jkiss.dbeaver.ext.oracle 2.1.197.202308201919]
+> Start Console [org.eclipse.ui.console 3.12.0.v20230317-0802]
+> Start Debug Core [org.eclipse.debug.core 3.21.0.v20230508-1538]
+2023-09-29 18:10:50.640 - Connect with 'localhost' (oracle_thin-18a5b870395-1ba629ca645d7b4)
+2023-09-29 18:10:50.668 - Execution context opened (localhost; Main; 0)
+2023-09-29 18:10:51.249 - Execution context opened (localhost; Metadata; 1)
+2023-09-29 18:10:51.349 - Connected (oracle_thin-18a5b870395-1ba629ca645d7b4, Oracle JDBC driver [12.2.0.1.0])
+2023-09-29 18:10:51.352 - Execution context opened (localhost; SQLEditor <Script04.sql>; 2)
+2023-09-29 18:10:52.197 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.90.202308201919]
+> Start DBeaver Oracle UI [org.jkiss.dbeaver.ext.oracle.ui 1.0.99.202308201919]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.90.202308201919]
+2023-09-29 18:11:18.290 - Execution context opened (localhost; SQLEditor <Script05.sql>; 3)
+2023-09-29 18:11:20.943 - Execution context closed (localhost, 2)
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.7.202308201919]
+2023-09-29 18:49:07.521 - SQL Error [923] [42000]: ORA-00923: FROM keyword not found where expected
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [923] [42000]: ORA-00923: FROM keyword not found where expected
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$1(SQLQueryJob.java:491)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:498)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3937)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5142)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00923: FROM keyword not found where expected
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:494)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:446)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1054)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:623)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:252)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:612)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:213)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:37)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:733)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:904)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1082)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1737)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1692)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:300)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 923, Position : 61, Sql = -- 컬럼 2개를 적용시
+SELECT DEPARTMENT_ID,JOB_ID  SUM(SALARY)
+FROM EMPLOYEES
+GROUP BY DEPARTMENT_ID, JOB_ID, OriginalSql = -- 컬럼 2개를 적용시
+SELECT DEPARTMENT_ID,JOB_ID  SUM(SALARY)
+FROM EMPLOYEES
+GROUP BY DEPARTMENT_ID, JOB_ID, Error Msg = ORA-00923: FROM keyword not found where expected
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:498)
+	... 27 more
+2023-09-29 19:28:45.619 - SQL Error [936] [42000]: ORA-00936: missing expression
+
+
+Error position: line: 33 pos: 105
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [936] [42000]: ORA-00936: missing expression
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$1(SQLQueryJob.java:491)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:498)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3937)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5142)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00936: missing expression
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:494)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:446)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1054)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:623)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:252)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:612)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:213)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:37)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:733)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:904)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1082)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1737)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1692)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:300)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 936, Position : 105, Sql = --GROUPING SETS() 소그룹의 결과는 안보여주고, 소그룹별 소계만 보여준다.
+SELECT 
+FROM EMPLOYEES
+GROUP BY GROUPING SETS(DEPARTMENT_ID,JOB_ID), OriginalSql = --GROUPING SETS() 소그룹의 결과는 안보여주고, 소그룹별 소계만 보여준다.
+SELECT 
+FROM EMPLOYEES
+GROUP BY GROUPING SETS(DEPARTMENT_ID,JOB_ID), Error Msg = ORA-00936: missing expression
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:498)
+	... 27 more
+2023-09-29 19:46:10.343 - SQL Error [932] [42000]: ORA-00932: inconsistent datatypes: expected NUMBER got CHAR
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [932] [42000]: ORA-00932: inconsistent datatypes: expected NUMBER got CHAR
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$1(SQLQueryJob.java:491)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:498)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3937)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5142)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00932: inconsistent datatypes: expected NUMBER got CHAR
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:494)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:446)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1054)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:623)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:252)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:612)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:213)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:37)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:733)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:904)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1082)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1737)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1692)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:300)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 932, Position : 119, Sql = SELECT DEPARTMENT_ID, JOB_ID, SUM(SALARY)
+	  , CASE WHEN GROUPING(DEPARTMENT_ID) = 0 THEN DEPARTMENT_ID 
+	   		 ELSE '모든부서'
+	    END,
+	    CASE 
+	    	WHEN GROUPING(JOB_ID) = 0 THEN JOB_ID
+	    	ELSE '모든직업군'
+	    END  
+FROM EMPLOYEES
+GROUP BY ROLLUP(DEPARTMENT_ID, JOB_ID)
+ORDER BY DEPARTMENT_ID, OriginalSql = SELECT DEPARTMENT_ID, JOB_ID, SUM(SALARY)
+	  , CASE WHEN GROUPING(DEPARTMENT_ID) = 0 THEN DEPARTMENT_ID 
+	   		 ELSE '모든부서'
+	    END,
+	    CASE 
+	    	WHEN GROUPING(JOB_ID) = 0 THEN JOB_ID
+	    	ELSE '모든직업군'
+	    END  
+FROM EMPLOYEES
+GROUP BY ROLLUP(DEPARTMENT_ID, JOB_ID)
+ORDER BY DEPARTMENT_ID, Error Msg = ORA-00932: inconsistent datatypes: expected NUMBER got CHAR
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:498)
+	... 27 more
+2023-09-29 20:25:57.738 - Execution context closed (localhost, 3)
+2023-09-29 20:25:57.963 - DBeaver is stopping
+2023-09-29 20:25:57.964 - Stop instance server
+2023-09-29 20:25:58.965 - DBeaver shutdown completed
